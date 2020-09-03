@@ -29,4 +29,4 @@ async def ban(ctx, member : discord.Member, *, reason=None):
 
 
 
-client.run('NzUwMTgwMTAxNDU0NTYxMzEx.X02xqQ.C5uhK_8wmULk3bg2sIn6ejyRszc')
+client.run('NzUwMTgwMTAxNDU0NTYxMzEx.X02xqQ.ZbmaZStSYuAJikE0A3G8rD6yNhc')
