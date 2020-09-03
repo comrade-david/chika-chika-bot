@@ -1,1 +1,1 @@
-worker: python chikabot.py
+worker: python chika-chika-bot.py
